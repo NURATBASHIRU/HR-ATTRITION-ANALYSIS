@@ -1,6 +1,7 @@
 # HR Employee Attrition / Performance Analysis
 
 ### Project Overview
+![EMPLOYEE ATTRITION_DASHBOARD](https://github.com/NURATBASHIRU/HR-EMPLOYEE-ATTRITION-ANALYSIS/assets/167202411/ddf0d6d5-4d5d-437d-8ef7-146a2e149289)
 
 
 ### Data Source
